@@ -4,7 +4,7 @@ I have 10+ years of audio editing experience in Ableton Live and music making so
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ableton,kubernetes,go,py,raspberrypi,discord,arch,linux,neovim " />
   </a>
 </p>
 
