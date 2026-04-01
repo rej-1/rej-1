@@ -1,4 +1,4 @@
-Good to see you! 👋 My name is Ray Graves and I attend the University of Alabama at Birmingham in the History Department. 📚
+Good to see you! 👋 My name is Nelson Graves and I attend the University of Alabama at Birmingham in the History Department. 📚
 
 I have 10+ years of audio editing experience in Ableton Live and music making software and a building interest in networking and back end infastructure. This year will be the year of programming education with Python and Go. My tech day job is currently in radio alongside my classes at UAB.
 
