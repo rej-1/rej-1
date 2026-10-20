@@ -1,6 +1,6 @@
 Good to see you! 👋 My name is Nelson Graves. 📚
 
-I have 10+ years of audio editing experience in Ableton Live and music making software and a building interest in networking and back end infastructure. This year will be the year of programming education with Python and Go. My tech day job is currently in radio alongside my classes at UAB.
+I have 10+ years of audio editing experience in Ableton Live and music making software and a building interest in networking and back end infastructure. This year will be the year of programming education with Python and Go. My tech day job is currently in radio as an audio engineer.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,9 +9,7 @@ I have 10+ years of audio editing experience in Ableton Live and music making so
 </p>
 
 - 🔭 I’m currently working on Arch Linux
-- 🌱 I’m currently learning Python and Go
-- 👯 I’m looking to collaborate on learning game development
-- 🤔 I’m looking for help with Javascript :(
+- 🌱 I’m currently learning Ai harnesses.
 - 💬 Ask me about Ableton and music making
 - 📫 Reach me on discord: _rej1
 - ⚡ Fun fact: When I was 14 I saved my dad's life - https://www.al.com/spotnews/2012/05/hoover_fire_department_recogni.html
